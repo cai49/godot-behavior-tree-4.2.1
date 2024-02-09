@@ -1,8 +1,9 @@
 # godot-behavior-tree
 
-A GDScript implementation of a behavior tree for game AI, based on native Godot nodes and using the built in scene tree editor.
+# FORKED VERSION OF THE ORIGINAL PLUGIN BY kagenash1 @ https://github.com/kagenash1/godot-behavior-tree.git
+# THIS VERSION IS TO BE AN UPDATED VERSION FOR THE GODOT GAME ENGINE VERSION 4.2.1
 
-C# VERSION -> https://github.com/MadFlyFish/godot-behavior-tree-csharp
+A GDScript implementation of a behavior tree for game AI, based on native Godot nodes and using the built in scene tree editor.
 
 INSTALLATION
 - Copy the 'addons' folder into the main directory of your project.
